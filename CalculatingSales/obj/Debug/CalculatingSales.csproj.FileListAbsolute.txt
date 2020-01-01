@@ -1,0 +1,10 @@
+C:\Users\jf891\Desktop\C# Cluster\CalculatingSales\CalculatingSales\bin\Debug\CalculatingSales.exe.config
+C:\Users\jf891\Desktop\C# Cluster\CalculatingSales\CalculatingSales\bin\Debug\CalculatingSales.exe
+C:\Users\jf891\Desktop\C# Cluster\CalculatingSales\CalculatingSales\bin\Debug\CalculatingSales.pdb
+C:\Users\jf891\Desktop\C# Cluster\CalculatingSales\CalculatingSales\obj\Debug\CalculatingSales.csprojResolveAssemblyReference.cache
+C:\Users\jf891\Desktop\C# Cluster\CalculatingSales\CalculatingSales\obj\Debug\CalculatingSales.frmSales.resources
+C:\Users\jf891\Desktop\C# Cluster\CalculatingSales\CalculatingSales\obj\Debug\CalculatingSales.Properties.Resources.resources
+C:\Users\jf891\Desktop\C# Cluster\CalculatingSales\CalculatingSales\obj\Debug\CalculatingSales.csproj.GenerateResource.Cache
+C:\Users\jf891\Desktop\C# Cluster\CalculatingSales\CalculatingSales\obj\Debug\CalculatingSales.csproj.CoreCompileInputs.cache
+C:\Users\jf891\Desktop\C# Cluster\CalculatingSales\CalculatingSales\obj\Debug\CalculatingSales.exe
+C:\Users\jf891\Desktop\C# Cluster\CalculatingSales\CalculatingSales\obj\Debug\CalculatingSales.pdb
